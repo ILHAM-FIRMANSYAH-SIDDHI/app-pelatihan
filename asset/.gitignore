@@ -1,0 +1,8 @@
+# Folder vendor & dependencies
+node_modules/
+vendor/
+
+# File sistem operasi & editor
+.DS_Store
+Thumbs.db
+.vscode/
