@@ -828,6 +828,9 @@ if (!isset($_SESSION['status']) || $_SESSION['status'] != true) {
 
     <!-- Custom scripts for all pages-->
     <script src="asset/js/sb-admin-2.min.js"></script>
+
+    <!-- Untuk Commit pertama tugas pert.18 -->
+    <!-- Memperbarui dan merapikan UI dashboard aplikasi -->
 </body>
 
 </html>
